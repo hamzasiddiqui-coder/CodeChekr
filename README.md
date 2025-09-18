@@ -1,4 +1,4 @@
-# CodeChekr AI
+# CodeChekr 
 
 An **AI-powered Code Review Application** built with **React, Node.js, and Google Gemini API**.  
 This project allows developers to paste their code and receive instant feedback, suggestions, and improvements from an AI model.
@@ -68,8 +68,8 @@ VITE_API_URL=http://localhost:5000
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/code-review.git
-cd code-review
+git clone https://github.com/hamzasiddiqui-coder/codechekr.git
+cd codechekr
 
 Backend Setup
 cd BackEnd
